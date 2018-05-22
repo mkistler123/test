@@ -1,3 +1,5 @@
 test = input("Enter your name: ")
-if test
+if test:
     print(test)
+else:
+    print("No Name?")
